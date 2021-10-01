@@ -1,0 +1,26 @@
+{
+  "name": "2021",
+  "version": "1.0.0",
+  "description": "Hacktoberfest Brasil",
+  "main": "src/index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hacktoberfestbrasil/2021.git"
+  },
+  "keywords": [
+    "hacktoberfest",
+    "2021"
+  ],
+  "author": "Guilherme Siquinelli <guiseek@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hacktoberfestbrasil/2021/issues"
+  },
+  "homepage": "https://github.com/hacktoberfestbrasil/2021#readme"
+}
